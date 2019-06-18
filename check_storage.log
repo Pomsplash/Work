@@ -1,4 +1,4 @@
-2019-06-13 17:00:44,423 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
+2012-06-13 17:00:44,423 check_storage [INFO] /media/data_area: 100% (Avail: 17 mb) Capa: 20025 mb
 2019-06-13 17:00:44,423 check_storage [INFO] /dev/shm: 1% (Avail: 939 mb) Capa: 939 mb
 2019-06-13 17:00:44,424 check_storage [INFO] /: 93% (Avail: 1121 mb) Capa: 15566 mb
 2019-06-13 17:00:44,424 check_storage [INFO] /boot: 16% (Avail: 384 mb) Capa: 477 mb
